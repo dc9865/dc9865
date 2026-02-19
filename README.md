@@ -4,6 +4,7 @@
 I am an RIT Software Engineering graduate with 1.5+ years of enterprise IT experience. I specialize in troubleshooting Layer 2/3 connectivity and am currently scaling my expertise toward Enterprise Network Design and Automation.
 
 🎯 **Goal:** Transitioning into a **NOC Technician / Network Engineer** role.
+
 📜 **Certification:** CCNA (Expected March 2026) | AWS Certified Cloud Practitioner | Oracle Certified Associate Java Programmer
 
 ---
