@@ -13,7 +13,7 @@ I am an RIT Software Engineering graduate with 1.5+ years of enterprise IT exper
 * **Networking:** IPv4/IPv6, Subnetting, OSPF, VLANs, Trunking (802.1Q), STP, Cisco IOS.
 * **Cloud & Infra:** AWS (VPC, EC2, S3), Infrastructure as Code (CloudFormation).
 * **Programming:** Python, Java, SQL
-* **Systems:** Active Directory, Windows/Linux Server, VPN (AnyConnect/IPsec).
+* **Systems:** Active Directory, Windows/Linux Server, VPN
 
 ---
 
