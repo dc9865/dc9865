@@ -19,7 +19,6 @@ I am a Software Engineering graduate with enterprise IT experience, building str
 ---
 
 ### 📂 Featured Networking Projects
-*Since my professional roles focused on end-user support, I use these labs to demonstrate my hands-on configuration skills with Layer 2 and Layer 3 devices.*
 
 #### 🌐 [Enterprise Network Simulation (Cisco)](https://github.com/ccna-labs)
 * Designed and configured a multi-router, multi-switch enterprise topology using **Cisco IOS**.
