@@ -27,9 +27,9 @@ I am a Software Engineering graduate with enterprise IT experience, building str
 * Implemented **Port Security** and **STP** to ensure a stable and secure broadcast domain.
 
 #### ☁️ [Serverless Infrastructure as Code (AWS)](https://github.com/team-3)
-* Built a multi-tier serverless architecture using AWS CloudFormation
-* Automated real-time data ingestion using Python (Boto3) and Lambda
-* Integrated API Gateway and DynamoDB for scalable backend processing
+* Built a multi-tier serverless architecture using **AWS CloudFormation**.
+* Automated real-time data ingestion using **Python (Boto3)** and **Lambda**.
+* Integrated **API Gateway** and **DynamoDB** for scalable backend processing.
 
 ---
 
@@ -51,8 +51,8 @@ I am a Software Engineering graduate with enterprise IT experience, building str
 ---
 
 ### ⚙️ Currently Building
-* Network automation scripts using Python (Netmiko)
-* Packet analysis using Wireshark
+* Network automation scripts using Python (**Netmiko**)
+* Packet analysis using **Wireshark**
 
 ### 📫 Let's Connect
 * 🔗 **LinkedIn:** [linkedin.com/in/dyhcho]
