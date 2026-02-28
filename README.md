@@ -1,30 +1,54 @@
-# 👋 Hi, I’m Yonghyun "Daniel" Cho
+# 👋 Hi, I’m Yonghyun "Daniel" Cho 
 
-**Software Engineer 🤝 Network Specialist**
-I am an RIT Software Engineering graduate with 1.5+ years of enterprise IT experience. I specialize in troubleshooting Layer 2/3 connectivity and am currently scaling my expertise toward Enterprise Network Design and Automation.
+### **Aspiring Network Engineer | Software Engineering Graduate**
+*RIT Alum | CCNA Candidate (March 2026) | 1.5 Years Enterprise IT Experience*
 
-🎯 **Goal:** Transitioning into a **NOC Technician / Network Engineer** role.
-
-📜 **Certification:** CCNA (Expected March 2026) | AWS Certified Cloud Practitioner | Oracle Certified Associate Java Programmer
+I am a Software Engineer transitioning into **Network Operations (NOC)**. I spent 1.5 years in the "trenches" of enterprise IT at **LG Energy Solution** and **Hyundai Mobis**, providing end-user support in high-pressure environments. I am now combining my software background with deep-dive networking labs to transition into infrastructure management and automation.
 
 ---
 
 ### 🛠️ Technical Toolkit
-* **Networking:** IPv4/IPv6, Subnetting, OSPF, VLANs, Trunking (802.1Q), STP, Cisco IOS.
-* **Cloud & Infra:** AWS (VPC, EC2, S3), Infrastructure as Code (CloudFormation).
-* **Programming:** Python, Java, SQL
-* **Systems:** Active Directory, Windows/Linux Server, VPN
+
+| Category | Skills |
+| :--- | :--- |
+| **Networking (Lab-Based)** | IPv4/IPv6 Subnetting, OSPF, VLANs, 802.1Q Trunking, STP, Cisco IOS |
+| **Enterprise Support** | Layer 1 Connectivity, VPN Client Troubleshooting, Active Directory, Hardware Provisioning |
+| **Development** | Python (Netmiko/Automation), Java (OCA Certified), SQL, Git |
+| **Cloud & Systems** | AWS (VPC, EC2, CloudFormation (IaC)), Windows/Linux Desktop & Server Support |
 
 ---
 
-### 📂 Featured Projects
-* **[Enterprise Network Lab](https://github.com/dc9865/ccna-labs)**: A full-scale Cisco Packet Tracer environment featuring OSPF, VLAN Trunking (802.1Q), and Inter-VLAN routing.
-* **[AWS Infrastructure as Code](https://github.com/dc9865/team-3)**: Engineered a one-click deployment for a serverless data pipeline using Infrastructure as Code (IaC).
+### 📂 Featured Networking Projects
+*Since my professional roles focused on end-user support, I use these labs to demonstrate my hands-on configuration skills with Layer 2 and Layer 3 devices.*
+
+#### 🌐 [Enterprise Network Simulation (Cisco/OSPF)](https://github.com/ccna-labs)
+* Engineered a multi-department network topology from scratch using **Cisco IOS**.
+* Configured **Inter-VLAN routing** and **OSPF** to manage simulated enterprise traffic.
+* Implemented **Port Security** and **STP** to ensure a stable and secure broadcast domain.
+
+#### ☁️ [AWS Cloud Networking](https://github.com/team-3)
+* Deployed cloud infrastructure using **CloudFormation (IaC)**.
+* Hands-on configuration of **VPCs, Public/Private Subnets, and Security Groups**.
 
 ---
 
-### 📈 Career Background
-* **1.5 Years Enterprise IT:** Hands-on experience at **LG Energy Solutions** and **Hyundai Mobis**, supporting 200+ users and validating network connectivity on enterprise hardware.
-* **Education:** BS in Software Engineering from **Rochester Institute of Technology (RIT)**.
+### 📈 Professional Background
 
-📫 **Reach out:** (mail) [dyhcho@gmail.com] | (Linkedin) [linkedin.com/in/dyhcho] 
+**IT Support Specialist** | *LG Energy Solution & Hyundai Mobis* | **1.5 Years**
+* **End-User Operations:** Provided high-volume technical support for 1000+ users, ensuring hardware and software reliability at the edge.
+* **Network Exposure:** Proactively shadowed Senior Infrastructure Engineers during network maintenance and device configurations to understand enterprise-scale routing and switching.
+* **Connectivity Troubleshooting:** Diagnosed Layer 1-3 issues from the client-side, including VPN connectivity, NIC configurations, and localized cabling.
+
+---
+
+### 📜 Certifications & Education
+* 🎓 **CCNA** (Cisco Certified Network Associate) – *In Progress (Exam: March 2026)*
+* ☁️ **AWS Certified Cloud Practitioner**
+* ☕ **Oracle Certified Associate**, Java SE Programmer
+* 🏫 **BS in Software Engineering** – Rochester Institute of Technology (RIT)
+
+---
+
+### 📫 Let's Connect
+* 🔗 **LinkedIn:** [linkedin.com/in/dyhcho](https://linkedin.com/in/dyhcho)
+* 📧 **Email:** [dyhcho@gmail.com](mailto:dyhcho@gmail.com)
