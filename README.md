@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Yonghyun "Daniel" Cho 
 
-### **Aspiring Network Engineer | Software Engineering Graduate**
-*RIT Alum | CCNA Candidate (March 2026) | 1.5 Years Enterprise IT Experience*
+### **Network Operations & Infrastructure Engineer **
+*Software Engineering Graduate | CCNA Candidate (March 2026)*
 
-I am a Software Engineer transitioning into **Network Operations (NOC)**. I spent 1.5 years in the "trenches" of enterprise IT at **LG Energy Solution** and **Hyundai Mobis**, providing end-user support in high-pressure environments. I am now combining my software background with deep-dive networking labs to transition into infrastructure management and automation.
+I am a Software Engineer with enterprise IT experience, developing strong routing and switching foundations to pursue Network Automation and Infrastructure Engineering. I spent 1.5 years in the enterprise IT at **LG Energy Solution** and **Hyundai Mobis**, providing end-user support in high-pressure environments. I am now combining my software background with deep-dive networking labs to transition into infrastructure management and automation.
 
 ---
 
@@ -14,21 +14,21 @@ I am a Software Engineer transitioning into **Network Operations (NOC)**. I spen
 | **Networking (Lab-Based)** | IPv4/IPv6 Subnetting, OSPF, VLANs, 802.1Q Trunking, STP, Cisco IOS |
 | **Enterprise Support** | Layer 1 Connectivity, VPN Client Troubleshooting, Active Directory, Hardware Provisioning |
 | **Development** | Python (Netmiko/Automation), Java (OCA Certified), SQL, Git |
-| **Cloud & Systems** | AWS (VPC, EC2, CloudFormation (IaC)), Windows/Linux Desktop & Server Support |
+| **Cloud & Systems** | AWS (VPC, EC2, CloudFormation), Windows/Linux Desktop & Server Support |
 
 ---
 
 ### 📂 Featured Networking Projects
 *Since my professional roles focused on end-user support, I use these labs to demonstrate my hands-on configuration skills with Layer 2 and Layer 3 devices.*
 
-#### 🌐 [Enterprise Network Simulation (Cisco/OSPF)](https://github.com/ccna-labs)
+#### 🌐 [Enterprise Network Simulation (Cisco)](https://github.com/ccna-labs)
 * Engineered a multi-department network topology from scratch using **Cisco IOS**.
 * Configured **Inter-VLAN routing** and **OSPF** to manage simulated enterprise traffic.
 * Implemented **Port Security** and **STP** to ensure a stable and secure broadcast domain.
 
 #### ☁️ [AWS Cloud Networking](https://github.com/team-3)
 * Deployed cloud infrastructure using **CloudFormation (IaC)**.
-* Hands-on configuration of **VPCs, Public/Private Subnets, and Security Groups**.
+* Hands-on configuration of **Python Labmda, DynamoDB, and Security Groups**.
 
 ---
 
@@ -50,5 +50,5 @@ I am a Software Engineer transitioning into **Network Operations (NOC)**. I spen
 ---
 
 ### 📫 Let's Connect
-* 🔗 **LinkedIn:** [linkedin.com/in/dyhcho](https://linkedin.com/in/dyhcho)
-* 📧 **Email:** [dyhcho@gmail.com](mailto:dyhcho@gmail.com)
+* 🔗 **LinkedIn:** [linkedin.com/in/dyhcho]
+* 📧 **Email:** [dyhcho@gmail.com]
