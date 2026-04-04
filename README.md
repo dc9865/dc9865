@@ -20,7 +20,7 @@ I am a Software Engineering graduate with enterprise IT experience, building str
 
 ### 📂 Featured Networking Projects
 
-#### 🌐 [Enterprise Network Simulation (Cisco)](https://github.com/ccna-labs)
+#### 🌐 [Enterprise Network Simulation (Cisco)](https://github.com/dc9865/ccna-labs)
 * Designed and configured a multi-router, multi-switch enterprise topology using **Cisco IOS**.
 * Configured **Inter-VLAN routing** and **OSPF** to manage simulated enterprise traffic.
 * Implemented **Port Security** and **STP** to ensure a stable and secure broadcast domain.
