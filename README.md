@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Yonghyun "Daniel" Cho 
 
-### **Network Operations & Infrastructure (CCNA Candidate)**
-*Software Engineering Graduate | CCNA Candidate (March 2026)*
+### **Network Operations & Infrastructure**
+*Software Engineering Graduate | CCNA Certified | Enterprise IT experience *
 
 I am a Software Engineering graduate with enterprise IT experience, building strong routing and switching foundations to move into Network Operations and Infrastructure Automation. I spent 1.5 years supporting high-pressure enterprise environments at LG Energy Solution and Hyundai Mobis, troubleshooting Layer 1-3 connectivity issues and end-user systems.
 
