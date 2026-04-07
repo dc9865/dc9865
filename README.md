@@ -25,7 +25,7 @@ I am a Software Engineering graduate with enterprise IT experience, building str
 * Configured **Inter-VLAN routing** and **OSPF** to manage simulated enterprise traffic.
 * Implemented **Port Security** and **STP** to ensure a stable and secure broadcast domain.
 
-#### ☁️ [Serverless Infrastructure as Code (AWS)](https://github.com/team-3)
+#### ☁️ [Serverless Infrastructure as Code (AWS)](https://github.com/dc9865/team-3)
 * Built a multi-tier serverless architecture using **AWS CloudFormation**.
 * Automated real-time data ingestion using **Python (Boto3)** and **Lambda**.
 * Integrated **API Gateway** and **DynamoDB** for scalable backend processing.
