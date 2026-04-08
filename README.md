@@ -20,6 +20,13 @@ I am a Software Engineering graduate with enterprise IT experience, building str
 
 ### 📂 Featured Networking Projects
 
+#### 🌐 [Enterprise Network Project](https://github.com/dc9865/enterprise-network-project)
+* Built a multi-site enterprise network (Office A/B) using hierarchical design with VLANs and inter-VLAN routing. 
+* Configured EtherChannel (L2/L3), Rapid PVST+, and HSRP for redundancy and high availability. 
+* Implemented OSPF, static routing, and NAT for internal and external connectivity. 
+* Deployed DHCP, DNS, NTP, SNMP, Syslog, FTP, and SSH for network services and management. 
+* Applied ACLs, DHCP Snooping, DAI, and Port Security to enforce Layer 2/3 security. 
+
 #### 🌐 [Network Engineering Labs (Cisco)](https://github.com/dc9865/ccna-labs)
 * Designed and configured a multi-router, multi-switch enterprise topology using **Cisco IOS**.
 * Configured **Inter-VLAN routing** and **OSPF** to manage simulated enterprise traffic.
