@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Yonghyun "Daniel" Cho 
+# 👋 Hi, I’m Daniel Cho 
 
 ### **Network Operations & Infrastructure**
 *Software Engineering Graduate | CCNA Certified | Enterprise IT experience *
