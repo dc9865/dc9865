@@ -57,7 +57,6 @@ CCNA-certified network-focused engineer with a Software Engineering background, 
 ## 📜 Certifications
 
 - CCNA (Apr 2026)  
-- AWS Certified Cloud Practitioner  
 - Oracle Certified Associate, Java  
 
 ---
