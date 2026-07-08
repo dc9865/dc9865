@@ -1,6 +1,6 @@
 # Daniel Cho
 
-CCNA-certified network-focused engineer with a Software Engineering background, building skills in routing, switching, and network automation.
+CCNA-certified IT Professional with a Software Engineering background, building skills in routing, switching, and network automation.
 
 ---
 
